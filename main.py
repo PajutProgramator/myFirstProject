@@ -10,6 +10,6 @@ def print_hi(name):
     print('bye.')
 
 # Press the green button in the gutter to run the script.
-print_hi('hoge hoge')
+print_hi('Hoge Hoge')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
